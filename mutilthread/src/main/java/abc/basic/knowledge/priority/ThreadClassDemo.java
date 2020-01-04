@@ -1,4 +1,4 @@
-package abc.basic.knowledge.io.priority;
+package abc.basic.knowledge.priority;
 
 public class ThreadClassDemo {
 

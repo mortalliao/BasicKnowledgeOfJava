@@ -1,4 +1,4 @@
-package abc.basic.knowledge.io;
+package abc.basic.knowledge;
 
 class RunnableDemo implements Runnable {
     private Thread t;

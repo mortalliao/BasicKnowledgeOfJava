@@ -1,4 +1,4 @@
-package abc.basic.knowledge.io.keyword;
+package abc.basic.knowledge.keyword;
 
 /**
  * test static

@@ -1,4 +1,4 @@
-package abc.basic.knowledge.io;
+package abc.basic.knowledge;
 
 class ThreadDemo extends Thread {
     private Thread t;
