@@ -60,5 +60,8 @@ public class TestOptional {
 
         Optional<String> str = optional.map((e) -> e.getName());
         System.out.println(str.get());
+
+        Optional<String> str2 = optional.flatMap((e) -> Optional.of(e.getName()));
+        System.out.println(str2.get());
     }
 }
