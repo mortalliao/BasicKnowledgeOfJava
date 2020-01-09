@@ -23,6 +23,7 @@
         <module>classloader</module>
         <module>jdbc</module>
         <module>spi</module>
+        <module>concurrency</module>
     </modules>
 
     <dependencies>
