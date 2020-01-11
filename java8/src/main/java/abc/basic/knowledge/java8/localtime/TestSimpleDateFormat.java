@@ -12,6 +12,16 @@ import java.util.concurrent.*;
 
 /**
  * @author Jim
+ *
+ * <pre>
+ *
+ *     LocalDate, LocalTime, LocalDateTime类的实例是不可变对象
+ *     分别表示使用ISO-8601日历系统的日期, 时间, 日期和时间
+ *     提供了简单的日期和时间, 并不包含当前的时间信息, 也不包含与时区相关的信息
+ *
+ *     注: ISO-8601日历系统是国际标准化组织制定的现代公民的日期和时间的表示法
+ *
+ * </pre>
  */
 public class TestSimpleDateFormat {
 
