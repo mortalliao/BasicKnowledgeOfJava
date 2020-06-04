@@ -1,4 +1,4 @@
-package abc.basic.knowledge.keyword;
+package abc.basic.knowledge.thread;
 
 /**
  * @author Jim
