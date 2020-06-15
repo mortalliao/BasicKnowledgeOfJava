@@ -62,13 +62,13 @@ import java.util.SortedMap;
  *      transferForm()
  *      transferTo()
  *
- *  5. 分散(Scatter)与聚集(Gather)
- *      分散读取(Scattering Reads) : 将通道中的数据分散到多个缓冲区中
- *      聚集写入(Gathering Writes) : 将多个缓冲区中的数据聚集到通道中
+ * 5. 分散(Scatter)与聚集(Gather)
+ *     分散读取(Scattering Reads) : 将通道中的数据分散到多个缓冲区中
+ *     聚集写入(Gathering Writes) : 将多个缓冲区中的数据聚集到通道中
  *
- *  6. 字符集: Charset
- *      编码: 字符串 -> 字节数组
- *      解码: 字节数组 -> 字符串
+ * 6. 字符集: Charset
+ *     编码: 字符串 -> 字节数组
+ *     解码: 字节数组 -> 字符串
  *
  * </pre>
  */

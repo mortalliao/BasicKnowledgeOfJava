@@ -9,6 +9,7 @@ IO | NIO
  阻塞IO(Blocking IO) | 非阻塞IO(No Blocking IO)
  无 | 选择器(Selector)
  
+ IO
 ```
 文件, 磁盘, 网络 -> 输入流 -> 程序 
                <- 输出流 <-
